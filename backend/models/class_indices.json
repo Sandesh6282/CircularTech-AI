@@ -1,0 +1,20 @@
+{
+  "class_to_idx": {
+    "battery": 0,
+    "cable": 1,
+    "circuit_board": 2,
+    "keyboard": 3,
+    "laptop": 4,
+    "mobile_phone": 5,
+    "mouse": 6
+  },
+  "idx_to_class": {
+    "0": "battery",
+    "1": "cable",
+    "2": "circuit_board",
+    "3": "keyboard",
+    "4": "laptop",
+    "5": "mobile_phone",
+    "6": "mouse"
+  }
+}

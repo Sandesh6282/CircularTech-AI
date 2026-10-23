@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CircularTech AI
+datasets/
+raw_etid/
+temp_raw/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+*.pt
+backend/models/*.pt
+!backend/models/class_indices.json
